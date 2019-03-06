@@ -1,16 +1,16 @@
 # CMPT-733-Big-Data-2
 Course Project for CMPT 733 (Programming for Big Data 2)
 
-Description:
+### Description:
 In this project, we use different NLP and supervised machine learning techniques to design an effective model for identification of toxic comments. We use our model on data scraped from multiple Facebook pages to gain insight about the rate and types of toxicities present in different communities.
 
-Data Cleaning and Integration:
+### Data Cleaning and Integration:
 The folder contains:
 -	Script for preprocessing the Wikipedia, SOCC and Facebook data. (Data_Cleaning.py)
 -	Script for merging the Wikipedia and SOCC datasets (Merging_Datasets.py)
 -	Script for merging the files scraped from facebook to make one final CSV for each category (merge_csvs.py)
 
-Models:
+### Models:
 The Folder contains:
 -	RNN folder with an implementation of RNN model
 -	TFIDF implementation of multiple scikit learn models:
@@ -21,7 +21,7 @@ The Folder contains:
 -	Script for Scikit Learn's implementation of doc2vec (doc2vec.ipynb)
 
 
-Analysis:
+### Analysis:
 The Folder contains:
 -	topic_modeling.py:	Script for topic modeling using LDA and visualizing the results.
 -	Slangs List Big Data.csv:	List for detecting the type of toxicities. Contains sexist, racist and homophobic words
@@ -29,7 +29,7 @@ The Folder contains:
 -	Confidence_Interval.ipynb:	Script for calculating the confidence interval and generalizing our methods.
 -	Trends_Analysis.ipynb:	Script for plotting the line graph for CNN.
 
-Visualizations:
+### Visualizations:
 The Folder contains the images/charts we produced in our project.
 
 Data:

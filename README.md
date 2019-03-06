@@ -1,6 +1,8 @@
 # CMPT-733-Big-Data-2
 Course Project for CMPT 733 (Programming for Big Data 2)
 
+Description:
+In this project, we use different NLP and supervised machine learning techniques to design an effective model for identification of toxic comments. We use our model on data scraped from multiple Facebook pages to gain insight about the rate and types of toxicities present in different communities.
 
 Data Cleaning and Integration:
 The folder contains:
